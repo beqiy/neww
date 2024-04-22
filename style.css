@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    margin: 50px auto;
+}
+.section__1{
+width: 1280px;
+height: 577px;
+border-radius: 10px;
+background-color: rgb(33, 33, 48);
+}
